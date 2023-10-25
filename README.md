@@ -26,25 +26,21 @@ I have a strong interest in picking up new skills and technologies to defend net
   ### Stack:
   
   <div style="display: inline_block"><br>
-  <h4>Java + SpringBoot</h4>
-    
-  <img align="center" alt="Java" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring Boot" width="70" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <br />
   <h4>Cyber Security</h4>
   <img align="center" alt="SentinelOne" width="230" src="https://upload.wikimedia.org/wikipedia/commons/3/33/SentinelOne_logo.svg">
   <img align="center" alt="Sophos" width="160" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Sophos_logo.svg">
-  
-  <br />
-  <img align="center" alt="Guardicore" width="180" src="https://svgshare.com/i/yzs.svg">
+<img align="center" alt="Guardicore" width="180" src="https://svgshare.com/i/yzs.svg">
   <img align="center" alt="CEH Certification" width="80" src="https://images.credly.com/size/680x680/images/ae9a98b9-240b-47b1-9105-acd4f019ed1a/CEH_Badge.png">
   <br />
-  <h4>Web and Mobile Front-End</h4>
-  <img align="center" alt="React-Native" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<h4>Desenvolvimento</h4>
+  <img align="center" alt="Java" width="50" src="https://svgshare.com/i/yzg.svg">
+  <img align="center" alt="Java" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring Boot" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="React-Native" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <br />
-  </div>
+</div>
 
   ##
 
